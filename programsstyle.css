@@ -1,0 +1,21 @@
+.body {
+    background-image: url('LaikaMedia/gradient3.jfif');
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+
+.sidenav {
+    background-image: url('LaikaMedia/laikalogoimagepng.png');
+    background-size: contain;
+    background-position: center;
+}
+
+
+
+.follow-container .fa-4x{
+    margin: 5px 10px;
+
+}

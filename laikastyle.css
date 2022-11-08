@@ -1,0 +1,31 @@
+.header {
+    background-image: url('LaikaMedia/eagles1.jpg'); 
+    min-height: 1000px;
+    background-size: cover;
+    background-position: center;
+    margin: 0%;
+    color:rgb(255, 255, 255);
+}
+
+.sidenav {
+    background-image: url('LaikaMedia/laikalogoimagepng.png');
+    background-position: center; 
+    background-size: contain;
+
+
+}
+
+
+ 
+
+.name {                                
+    padding-top: 220px;
+}
+
+
+
+.follow-container .fa-4x{
+    margin: 5px 10px;
+
+}
+   
